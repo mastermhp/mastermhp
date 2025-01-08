@@ -7,9 +7,9 @@ Full Stack Web Developer
 Founder of XtraBook \[https://videoappmhp.web.app/\] I do this since I love helping organizations exhibit their maximum capacity to the client through programming arrangements, perhaps that be a website and whatever else. Likewise, I simply love the course of programming improvement, by which you can take something from a plan to a genuine item that many can utilize.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [Mehedi Hasan Parash](http://videoappmhp.web.app/)
+* 🖥️  See my portfolio at [Mehedi Hasan Parash](http://mastermhp.vercel.app/)
 * ✉️  You can contact me at [programmingmastermhp@gmail.com](mailto:programmingmastermhp@gmail.com)
-* 🚀  I'm currently working on [Hungry Bro?](http://hungry-bro.netlify.app/)
+* 🚀  I'm currently working on [ZeuZ AI?](http://zeuz.ai/)
 * 🧠  I'm learning Advance React Native
 * 🤝  I'm open to collaborating on Full Stack Web Developement
 
