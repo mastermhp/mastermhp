@@ -2,7 +2,7 @@
 
 <!-- CYBERPUNK HOLOGRAM AVATAR CENTER -->
 <p align="center">
-  <img src="[https://chatgpt.com/s/m_69192456a5ac8191aa513cfb18d1646d](https://github.com/mastermhp/3d-dp/blob/main/Futuristic%20Holographic%20Portrait%20of%20MHP.png)" alt="MHP Avatar" width="240" style="border-radius: 50%; box-shadow: 0 0 25px #00eaff;"/>
+  <img src="https://github.com/mastermhp/3d-dp/blob/main/Futuristic%20Holographic%20Portrait%20of%20MHP.png" alt="MHP Avatar" width="240" style="border-radius: 50%; box-shadow: 0 0 25px #00eaff;"/>
 </p>
 
 <!-- ANIMATED TYPING INTRO -->
