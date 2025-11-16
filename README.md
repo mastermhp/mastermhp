@@ -1,3 +1,43 @@
+<!-- ✨ ULTRA MODE — MHP GITHUB PROFILE ✨ -->
+
+<!-- CYBERPUNK HOLOGRAM AVATAR CENTER -->
+<p align="center">
+  <img src="https://chatgpt.com/s/m_69192456a5ac8191aa513cfb18d1646d" alt="MHP Avatar" width="240" style="border-radius: 50%; box-shadow: 0 0 25px #00eaff;"/>
+</p>
+
+<!-- ANIMATED TYPING INTRO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E7FF&size=32&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mehedi+Hasan+Parash+(MHP)!;Full-Stack+MERN+Developer;AI+Engineer+%7C+Game+Dev+%7C+VR+Creator;Building+the+Future+One+Project+at+a+Time" />
+</h1>
+
+---
+
+<!-- NEON BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FullStack_MERN-00eaff?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity_Game_Dev-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VR_Developer-ff00ff?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3_Enthusiast-fad61d?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 **Who Am I?**
+
+```bash
+> MHP.sh —run bio
+----------------------------------------------
+Name: Mehedi Hasan Parash (MHP)
+Role: Full-Stack MERN | AI Engineer | Game & VR Dev
+Experience: 4+ Years Web Dev | 1.5+ Years Industry
+Location: Bangladesh
+Mission: Build Next-Gen AI, Games & Web Platforms
+----------------------------------------------
+Status: Online ██▓▒░░░
+
+
+
 <!-- PROFILE HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+I'm+Mehedi+Hasan+Parash+(MHP)👋;Full-Stack+MERN+Developer;AI+Engineer+%26+Next.js+Expert;Unity+3D+%26+VR+Game+Developer;NASA+Space+Apps+Participant;Building+AI+Video+Generators+%26+3D+Games" />
