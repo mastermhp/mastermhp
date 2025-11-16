@@ -1,3 +1,157 @@
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+I'm+Mehedi+Hasan+Parash+(MHP)👋;Full-Stack+MERN+Developer;AI+Engineer+%26+Next.js+Expert;Unity+3D+%26+VR+Game+Developer;NASA+Space+Apps+Participant;Building+AI+Video+Generators+%26+3D+Games" />
+</p>
+
+---
+
+## 🚀 **About Me**
+
+🎓 CSE Student @ North South University  
+💼 Full-stack Developer (MERN, Next.js, Neon, Drizzle, Firebase, Unity)  
+🧠 Builds AI systems — Chatbots, AI Video Generators, ML integrations  
+🎮 3D & VR developer — Unity Engine (WebGL builds, AR/VR scenes, exoplanet games)  
+🌌 NASA Space Apps 2024 Participant — *AeroSolar + ExoNav Projects*  
+📱 Mobile Apps | VR Apps | Advanced SaaS Platforms  
+🛠 50+ Total Projects  
+⚡ 25+ Websites  
+🎮 10+ Games  
+📱 8+ Apps  
+🤖 12+ AI/ML Projects  
+
+---
+
+# 🛠️ **Tech Stack & Tools**
+
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,python,cpp" />
+</p>
+
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
+
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
+</p>
+
+### **DevOps / Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,github,git" />
+</p>
+
+### **Game & XR Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,blender,unreal" />
+</p>
+
+---
+
+# 🌟 **Major Real-World Projects**
+
+## 🌐 **Websites (25+)**
+- AI Video Generator (Next.js + Replicate + Neon + Drizzle)
+- Exoplanet Exploration Platform (React + NASA API)
+- Social Media Platform like Facebook (MERN)
+- Multi-Country Betting Platform UI/UX
+- Legal Assistance AI Website (MERN)
+- Travel Agency AI Assistant Website
+- Multiple agency/portfolio websites  
+- E-commerce platforms  
+- Student startup full-stack projects  
+- Full real-time AI chat apps  
+
+---
+
+## 🤖 **AI/ML Projects (12+)**
+- AI Text-to-Video Generator  
+- AI Podcast Generator  
+- AI Scene Generator from Audio + Text  
+- AI Legal Assistant  
+- AI Chatbots with RAG + Vector Search  
+- Solar Wind Prediction + Engine Health ML Models (NASA Challenge)  
+- Image Generation (SDXL - Replicate)  
+- AI Exoplanet Finder  
+- AI Learning System for Exoplanet Games  
+
+---
+
+## 🕹️ **Games (10+)**
+- Free-Fire-like Alien Battle Game (Unity)
+- Exoplanet Exploration VR Game  
+- AR/VR Science Learning Apps  
+- 3D Mission-based Space Game  
+- WebGL Unity Builds for browsers  
+- Multiple 3D simulations for projects  
+
+---
+
+## 📱 **Apps (8+)**
+- Betting companion UI  
+- Travel AI assistant  
+- Student productivity apps  
+- Unity-powered mobile applications  
+- AR/VR educational apps  
+
+---
+
+# 📊 **GitHub Stats (Animated)**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MHP&theme=violet-pink&date_format=j%20M[%20Y]" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MHP&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHP&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🚀 **3D Contribution Graph**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph.svg" />
+</p>
+
+---
+
+# 🏆 **Achievements**
+
+🏅 **NASA Space Apps 2024 Participant**  
+🎯 Built AR/VR, ML-based space weather & exoplanet exploration tools  
+🛠 Full-stack developer at a startup (NDA-protected)  
+🏆 Built 50+ serious-quality projects before age 23  
+🚀 Expert in JavaScript, React, Next.js, Unity, AI, ML, AR/VR  
+🎮 Created multiple 3D games from scratch  
+
+---
+
+# 💬 **Let’s Connect**
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
+</p>
+
+
 <!-- CENTERED TYPING HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=A020F0&center=true&vCenter=true&width=900&lines=Hi+I'm+Mehedi+Hasan+Parash+(MHP)+👋;Full-Stack+MERN+Developer;AI+Engineer+%26+Next.js+Expert;Unity+3D+%26+VR+Game+Developer;NASA+Space+Apps+Participant;Building+AI+Video+Generators+%26+3D+Games" />
